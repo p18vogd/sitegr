@@ -12,3 +12,6 @@ main:
     url: "/timetables/"
   - title: "Ects Calculator"
     url: "/ects-calculator/"
+  - title: "Μετά το πτυχίο"
+    url: "/after-graduation/"
+  
