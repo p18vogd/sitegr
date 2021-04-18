@@ -1,6 +1,6 @@
 ---
 ref: after-graduation
-title: "After Graduation"
+title: "Μετά το πτυχίο"
 permalink: "/after-graduation/"
 ---
 
